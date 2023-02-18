@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on digital control algorithms used in power electronics devices
 - 🌱 I’m currently learning Linux application in Vitis high level synthesis
 - 💬 Ask me about FPGA and TI DSPs based embedded software development
-- 📫 How to reach me: www.linkedin.com/in/abdurrahmansozuer
+- 📫 How to reach me: abdurrahmansozuer@gmail.com
 
