@@ -7,7 +7,7 @@ I am passionate about FPGA and DSP based digital signal processing. Develop and 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on digital control algorithms used in power electronics devices
-- 🌱 I’m currently learning PetaLinux and Yocto
+- 🌱 I’m currently learning PetaLinux and Yocto Project
 - 💬 Ask me about FPGA and TI DSPs based embedded software development
 - 📫 How to reach me: abdurrahmansozuer@gmail.com
 
